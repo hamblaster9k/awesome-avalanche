@@ -46,6 +46,7 @@ You can also use your PGL to earn rewards from a variety of other applications i
 * [Yield Yak](https://yieldyak.com/) - stake your YAK-AVAX PGL for AVAX rewards
 * [Avaware](https://avaware.network/farm) - stake your PGL for AVE rewards
 
+If you have created your own token and would like to incentivize liquidity provisioning for it on Pangolin, you may be interested in the [Universal Guidelines for PNG rewards](https://gov.pangolin.exchange/t/universal-guidelines-for-png-rewards/1575/7) forum post.
 
 ### Other DEXes
 
@@ -76,6 +77,10 @@ https://baguette.exchange/
 #### Lydia
 
 https://www.lydia.finance/
+
+#### Olive
+
+https://avax.olive.cash/
 
 ### Portfolio Trackers
 
