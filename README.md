@@ -13,4 +13,24 @@ https://pangolin.exchange/
 
 ### Pangolin
 
-Pangolin is the oldest Decentralized Exchange (DEX) on the Avalanche Network. You can do two things on Pangolin: trade or provide liquidity. Providing liquidity will entitle you to rewards, and will allow you to use a variety of yield optimizers and incentive pools in the Avalanche ecosystem.
+Pangolin is the oldest Decentralized Exchange (DEX) on the Avalanche Network and was developed by an Ava Labs engineer. You can do two things on Pangolin: trade or provide liquidity. Providing liquidity will give you "Liquidity Provisioning" (LP) tokens that you can "stake" for rewards on Pangolin and many other applications in the Avalanche ecosystem.
+
+#### Trade
+
+If you've just come over the bridge, you probably want to ape into a few tokens as soon as possible - to get started head to Pangolin's swap page:
+
+https://app.pangolin.exchange/#/swap
+
+Use the token list picker at the bottom of the "From" token selection dialog to find your bridged tokens (listed in the AVAX Bridge Tokens list as of August 11, 2021) and use the token list picker at the bottom of the "To" token selection dialog to find some interesting new coins. We recommend the "AVAX DeFi Tokens" list, full of innovative Avalanche-native projects.
+
+#### Provide Liquidity
+
+Liquidity provisioning is at the heart of Decentralized Finance, and is critical to the functioning of DEXes like Pangolin. To provide liquidity, you "stake" - ie, voluntarily lock up - equal values of two tokens. The tokens you lock up will be added to the "Liquidity Pool" that Pangolin uses to facilitate swaps between those tokens. There is some risk associated with providing liquidity -- read up on [Impermanent Loss](https://finematics.com/impermanent-loss-explained/) -- so most DEXes reward their liquidity providers with a reward token associated with the exchange. Pangolin's reward token is [PNG](https://info.pangolin.exchange/#/token/0x60781c2586d68229fde47564546784ab3faca982) and you can get some by adding to a liquidity pool here:
+
+https://app.pangolin.exchange/#/pool
+
+and then staking the LP tokens you get in return here:
+
+https://app.pangolin.exchange/#/png/1
+
+Note that different liquidity pools give different amounts of PNG rewards - see the "Earn up to (yearly)" field on the PNG page to get an idea of how lucrative each of the pools is right now.
