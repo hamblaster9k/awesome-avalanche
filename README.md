@@ -56,7 +56,7 @@ There are a variety of other DEXes in the Avalanche ecosystem:
 
 https://elk.finance/
 
-Elk is an unusual DEX - it's already live on Avalanche, Polygon, HECO, and Fantom and plans to expand to BSC and xDai next week. The ELK token can be moved from chain to chain, and they've built a full DEX on each chain, complete with staking rewards. Eventually Elk will let you swap tokens on one chain for tokens on another in a single operation.
+Elk is an unusual DEX - it's already live on Avalanche, Polygon, HECO, and Fantom and plans to expand to BSC and xDai next week. The ELK token can be moved from chain to chain, and they've built a full DEX on each chain, complete with staking rewards, providing a clean pathway to efficiently move liquidity between chains and, of course, making Elk an alternate entrypoint into the Avalanche ecosystem.
 
 #### Markr.io
 
@@ -78,6 +78,8 @@ https://baguette.exchange/
 
 https://www.lydia.finance/
 
+Lydia has a marketing partnership with Ava Labs and a bridge from BSC.
+
 #### Olive
 
 https://avax.olive.cash/
@@ -87,3 +89,36 @@ https://avax.olive.cash/
 #### Markr.io
 
 https://markr.io/
+
+
+### Compounders, yield optimizers
+#### Yield Yak
+
+https://yieldyak.com/
+
+#### Snowball
+
+https://snowball.network/
+
+#### Penguin Finance
+
+https://penguinfinance.org/
+
+
+### Bridges and Entry Points
+
+#### Spore
+
+https://spore.earth/
+
+#### Lydia
+
+https://www.lydia.finance/
+
+Lydia has a marketing partnership with Ava Labs and a bridge from BSC.
+
+### Meme coins
+
+#### Spore
+
+https://spore.earth/
