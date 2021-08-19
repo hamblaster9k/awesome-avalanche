@@ -92,6 +92,7 @@ https://markr.io/
 
 
 ### Compounders, yield optimizers
+
 #### Yield Yak
 
 https://yieldyak.com/
@@ -104,6 +105,41 @@ https://snowball.network/
 
 https://penguinfinance.org/
 
+#### Avaware
+
+https://avaware.network/
+
+### NFTs
+
+#### CryptoDappers
+
+https://www.crypto-dappers.art/
+
+#### Crypto Companions
+
+https://www.crypto-companions.art/wallet
+
+#### CryptoSeals
+
+https://cryptoseals.art/
+
+#### Hatchy Pocket
+
+https://hatchypocket.com/
+
+#### Avaxcells
+
+https://avaxcells.com/
+
+#### Avaxtars
+
+https://avaxtars.com/
+
+### NFT Marketplaces
+
+#### Snowflake
+
+http://snowflake.market/
 
 ### Bridges and Entry Points
 
@@ -122,3 +158,13 @@ Lydia has a marketing partnership with Ava Labs and a bridge from BSC.
 #### Spore
 
 https://spore.earth/
+
+#### Husky
+
+https://www.husky.space/
+
+### Other DApps
+
+#### AVME Antivirus
+
+https://avme.io/
